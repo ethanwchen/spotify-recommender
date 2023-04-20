@@ -3,3 +3,5 @@ A recommendation system generating artist and track recommendations for a user f
 
 
 Still a work in progress. Going to update accuracy of recommendations along with integration into Flask web app.
+
+.ipynb not loading
